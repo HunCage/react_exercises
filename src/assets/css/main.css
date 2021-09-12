@@ -41,10 +41,10 @@ h1 {
 	color: tomato;
 }
 
-/* img {
+img {
 	width: 250px;
 	height: auto;
-} */
+}
 
 @media screen and (min-width:768px) {
     .booklist {
