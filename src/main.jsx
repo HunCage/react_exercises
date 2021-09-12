@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./assets/css/main.css";
+import "./static/css/main.css";
 import { books } from "./data/data";
 import Book from "./components/Book";
 
